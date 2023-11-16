@@ -64,4 +64,4 @@ Execute the program
 
 # OUPUT
 
-[TimeTable-23013715- Alan ZION H.pdf](https://github.com/ALANZION/ODD2023-WT-Ex-03-Timetable/files/13371889/TimeTable-23013715-.Alan.ZION.H.pdf)
+[TimeTable-23013715- Alan ZION H.pdf]

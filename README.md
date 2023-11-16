@@ -63,4 +63,5 @@ Execute the program
 ````
 
 # OUPUT
-[Timetable-23013715.pdf](https://github.com/ALANZION/ODD2023-WT-Ex-03-Timetable/files/13371907/Timetable-23013715.pdf)
+![Screenshot (35)](https://github.com/ALANZION/ODD2023-WT-Ex-03-Timetable/assets/145743064/faefd409-413a-4cdc-9b51-52f5fe1aebf5)
+
